@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "home": "D:\\DeepSeekHarnessData",
+  "profile": "web",
+  "port": 3080,
+  "node": "C:\\Program Files\\nodejs\\node.exe",
+  "dsh": "D:\\npm-global\\dsh.cmd",
+  "cliEntry": "D:\\npm-global\\node_modules\\@deepseek-ai\\dsh\\lib\\bin.js",
+  "npm": "C:\\Program Files\\nodejs\\npm.cmd",
+  "pnpm": "D:\\npm-global\\pnpm.cmd",
+  "git": "D:\\Git\\cmd\\git.exe",
+  "pwsh": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "npmPrefix": "D:\\npm-global",
+  "taskName": "DSH Manager Web",
+  "backend": "scheduler",
+  "updateChannel": "next",
+  "startupTimeoutSeconds": 180,
+  "stabilitySeconds": 8,
+  "autostartDelaySeconds": 30,
+  "logMaxBytes": 10485760,
+  "logKeep": 5
+}

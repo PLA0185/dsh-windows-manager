@@ -1,0 +1,26 @@
+[
+  {
+    "name": "最终原生 Host 重启更换 PID 且不影响其他 Node",
+    "pass": true
+  },
+  {
+    "name": "WhatIf 不修改 profile 或创建快照",
+    "pass": true
+  },
+  {
+    "name": "日志字段脱敏",
+    "pass": true
+  },
+  {
+    "name": "日志轮转保留两份历史",
+    "pass": true
+  },
+  {
+    "name": "旧 BAT 和管理员旧任务已清理",
+    "pass": true
+  },
+  {
+    "name": "最终仅一份 DSH 且认证接口可用",
+    "pass": true
+  }
+]

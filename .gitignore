@@ -1,0 +1,19 @@
+# DSH runtime/private data must never enter this repository.
+manager/state/
+manager/logs/
+manager/history/
+manager/reports/
+manager/official-docs/
+backup/
+profiles/
+sessions/
+attachments/
+memory/
+storages/
+node_modules/
+.credentials*
+*.clixml
+*.log
+*.pid
+*.zip
+*.tmp

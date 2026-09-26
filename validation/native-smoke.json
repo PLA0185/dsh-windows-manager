@@ -1,0 +1,34 @@
+[
+  {
+    "name": "原生 Host 停止释放端口且其他 Node 存活",
+    "pass": true
+  },
+  {
+    "name": "系统 PowerShell 控制器启动成功",
+    "pass": true
+  },
+  {
+    "name": "关闭系统 PowerShell 控制器后后台持续存活",
+    "pass": true
+  },
+  {
+    "name": "系统宿主及 Node 无主窗口",
+    "pass": true
+  },
+  {
+    "name": "正式任务不依赖 Codex runtime",
+    "pass": true
+  },
+  {
+    "name": "切换至实际目录中的另一模型",
+    "pass": true
+  },
+  {
+    "name": "模型选择还原且凭据保留",
+    "pass": true
+  },
+  {
+    "name": "切换来回后 profile 文本完整保留",
+    "pass": true
+  }
+]
